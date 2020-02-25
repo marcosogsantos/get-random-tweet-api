@@ -7,6 +7,11 @@
 - No duplicate samples
 
 ---
+
+## Live demonstration
+
+https://randombird.herokuapp.com/
+
 ## Description
 
 Normally to get random samples of a twitter account you need to resquest "chunks" of user timeline until store all tweets and then get a random sample of this stored data. That method could be great for relative short user timelines and for dedicate in specifics profiles, but not for really big ones and generalized group of users.
@@ -41,7 +46,7 @@ Result
 ---
 
 ## Observations
-Because this method don't require a Twitter API Key, I don't have a request limit number (probably this will come from host ip ban by some sort of Twitter DDOS Security - that must be a big number - and the host free requests limit). 
+Because this method don't require a Twitter API Key, I don't have a request limit number (probably this will come from host ip ban by some sort of Twitter DDOS Security - that must be a big number - and the host free traffic limits). 
 
 For now, the backend dont use a ideal database system because it work with small and simple data (I thought that would be overwork) buts seems work fine.
 
