@@ -8,9 +8,9 @@
 
 ---
 
-## Live demonstration
+## Live demo
 
-https://randombird.herokuapp.com/
+https://marcosogsantos.github.io/randombird/
 
 ## Description
 
