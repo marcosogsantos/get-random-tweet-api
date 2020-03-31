@@ -1,5 +1,5 @@
 # get-random-tweet-api
-> The Get Random Tweet API lets you get one random tweet of any public profile on Twitter.
+> This API lets you get one random tweet of any public profile on Twitter.
 
 - Really simple and easy
 - Random sample of any tweet in whole user timeline
