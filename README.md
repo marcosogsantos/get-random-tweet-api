@@ -16,7 +16,7 @@ https://marcosogsantos.github.io/randombird/
 
 Normally to get random samples of a twitter account you need to resquest "chunks" of user timeline until store all tweets and then get a random sample of this stored data. That method could be great for relative short user timelines and for dedicate in specifics profiles, but not for really big ones and generalized group of users.
 
-With a simple "trick", this API let's you get one random tweet of a public profile with any size timeline, avoiding duplicates and without you store any data.
+With a simple "trick", this API let's you get one random tweet of a public profile with any size timeline and ~~avoiding duplicates~~.
 
 ---
 ## Example
